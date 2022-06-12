@@ -1,0 +1,4 @@
+numpy==1.22.4
+pynput==1.7.6
+six==1.16.0
+keyboard==0.13.5
